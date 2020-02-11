@@ -19,7 +19,9 @@ that’s because we’ve got a really poor dataset for training.
 Larger datasets will produce better results!
 */
 
-const output = net.run(serializer.encode('no me siento a salvo'))
+console.log('Comment from ET.com: el legado del imbecil ultramamerto carlos gaviria')
+
+const output = net.run(serializer.encode('el legado del imbecil ultramamerto carlos gaviria'))
 
 /*
 Now we just need to test our trained Neural Network.

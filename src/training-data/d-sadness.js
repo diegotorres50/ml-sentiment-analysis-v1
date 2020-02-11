@@ -11,6 +11,11 @@ const sadness = [
   },
 
   {
+    input: "que lastima que eso ocurra en nuestro pais",
+    output: {sadness: 1}
+  },
+
+  {
     input: "no me alegra nada",
     output: {sadness: 1}
   }
