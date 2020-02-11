@@ -1,0 +1,9 @@
+{
+  "name": "@diegotorres50",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "brain.js": "^1.1.2"
+  }
+}
